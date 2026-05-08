@@ -38,11 +38,13 @@ A modern **Article Summarizer GUI Application** built completely in **Python** u
 
 ## 📸 Preview
 
-```md
-![App Screenshot](images/gui.png)
-![App Screenshot](images/gui2.png)
-```
+<p align="center">
+  <img src="images/gui.png" width="800"/>
+</p>
 
+<p align="center">
+  <img src="images/gui2.png" width="800"/>
+</p>
 ---
 
 ## 🧠 How It Works
