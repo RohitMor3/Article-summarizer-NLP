@@ -1,0 +1,4 @@
+python>=3.10
+nltk>=3.8
+textblob>=0.18
+newspaper3k>=0.2.8
