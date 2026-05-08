@@ -45,6 +45,10 @@ A modern **Article Summarizer GUI Application** built completely in **Python** u
 <p align="center">
   <img src="images/gui2.png" width="800"/>
 </p>
+
+<p align="center">
+  <img src="images/gui3.png" width="800"/>
+</p>
 ---
 
 ## 🧠 How It Works
