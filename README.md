@@ -1,9 +1,5 @@
 # Article-summarizer-NLP
-This python project uses NLP to extract, parse &amp; summarize article
-
-# 🧠 NLP Article Summarizer
-
-A modern **Article Summarizer GUI Application** built completely in **Python** using **Natural Language Processing (NLP)** techniques to generate concise and meaningful summaries from lengthy articles or text.
+This project is an **Article Summarizer GUI Application** built completely in **Python** uses **Natural Language Processing (NLP)** to extract, parse &amp; summarize articles
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
